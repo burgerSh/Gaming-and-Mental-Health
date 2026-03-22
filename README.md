@@ -1,6 +1,6 @@
 # 🎮 Gaming Addiction Risk Predictor (ระบบประเมินความเสี่ยงการติดเกมด้วย AI)
 
-[![Streamlit App](https://gaming-and-mental-health-jpc9dqnyyepewj9jknamqw.streamlit.app/)
+(https://gaming-and-mental-health-jpc9dqnyyepewj9jknamqw.streamlit.app/)
 
 แอปพลิเคชัน Machine Learning สำหรับประเมินความเสี่ยงในการติดเกมเบื้องต้น พัฒนาขึ้นเพื่อช่วยให้ผู้ใช้งาน (เกมเมอร์ หรือผู้ปกครอง) สามารถตระหนักรู้ถึงพฤติกรรมการเล่นเกมของตนเองว่าอยู่ในระดับที่เหมาะสม หรือมีความเสี่ยงที่ควรปรับเปลี่ยนพฤติกรรม
 
